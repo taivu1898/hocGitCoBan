@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>o
 
 int partition(int *arr, int low, int high);
 
